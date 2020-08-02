@@ -6,7 +6,7 @@
 
 
 Preview
-[!](./Preview.gif)
+[!](https://github.com/GoByeBye/DiscoToken/blob/master/Preview.gif)
 
 # Installation
 ```python
