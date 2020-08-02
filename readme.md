@@ -1,4 +1,4 @@
-[![GitHub stars](https://img.shields.io/github/stars/GoByeBye/DiscoToken?style=for-the-badge)](https://github.com/GoByeBye/DiscoToken/stargazers) [![GitHub license](https://img.shields.io/github/license/GoByeBye/DiscoToken?style=for-the-badge)](https://github.com/GoByeBye/DiscoToken) ![GitHub](https://img.shields.io/github/license/GoByeBye/DiscoToken?style=for-the-badge)![](https://img.shields.io/badge/PYTHON-3.X-blueviolet?style=for-the-badge)
+[![GitHub stars](https://img.shields.io/github/stars/GoByeBye/DiscoToken?style=for-the-badge)](https://github.com/GoByeBye/DiscoToken/stargazers) ![GitHub license](https://img.shields.io/github/license/GoByeBye/DiscoToken?style=for-the-badge) ![](https://img.shields.io/badge/PYTHON-3.X-blueviolet?style=for-the-badge)
 
 # DiscoToken
 ### Probably one of the worst free open source Discord token checkers
