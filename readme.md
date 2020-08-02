@@ -6,7 +6,7 @@
 
 
 Preview
-![](https://i.imgur.com/O56NPTN.gif)
+[!](./Preview.gif)
 
 # Installation
 ```python
