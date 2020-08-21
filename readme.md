@@ -16,7 +16,7 @@ python3 chkr.py
 
 # Support
 
-<a href="https://discord.gg/6JaPydQ"><img src="https://discord.com/api/guilds/743205482507927568/widget.png?style=banner2" alt="" /></a>
+<a href="https://discord.gg/DpGBq7T"><img src="https://discord.com/api/guilds/743205482507927568/widget.png?style=banner2" alt="" /></a>
 
 ## Dependencies
 * [Colorama](https://github.com/tartley/colorama "Colorama")
